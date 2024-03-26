@@ -1,4 +1,4 @@
-package com.example.api_gateway.util;
+package com.example.apigateway.util;
 
 import com.nimbusds.jose.*;
 import com.nimbusds.jose.crypto.MACVerifier;

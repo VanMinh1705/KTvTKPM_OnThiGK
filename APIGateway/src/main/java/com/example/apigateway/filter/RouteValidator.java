@@ -1,4 +1,4 @@
-package com.example.api_gateway.filter;
+package com.example.apigateway.filter;
 
 import org.springframework.http.server.reactive.ServerHttpRequest;
 import org.springframework.stereotype.Component;
